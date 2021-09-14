@@ -1,0 +1,13 @@
+/build
+/dist
+entrance.egg-info/
+/elm-stuff
+/node-modules
+yarn.log
+debug.log*
+venv
+prefs.json
+.DS_Store
+.cache/
+package-lock.json
+__pycache__/
