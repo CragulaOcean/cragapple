@@ -1,0 +1,6 @@
+#!/bin/sh
+#
+# This `venv` already assumes you set up it's dedicated environment, kindof like a sandbox
+#
+
+venv/bin/python3 -m entrance $* || echo "Have you run ./make-venv yet?"
