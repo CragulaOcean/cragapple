@@ -9,6 +9,8 @@ _an app for streamers to gantt-triage repeated new-audience questions that repea
 ## Development Intro
 There is no custom server side python in this application.  Cragapple uses [entrance](https://github.com/ensoft/entrance) before probably moving to a django situation after prototyping stage
 
+
+
 ### Goal
 - implement actual database as a learning exercise
 - assess whether app aligns to having closed captioning on board
@@ -33,3 +35,12 @@ $ ./make-venv
 
 Python's virtual env (is called `venv`) will also download what you need for this app per this repo's code.
 
+Automagically the code in this repo goes like this...
+
+
+### Repo Code after the above
+
+Automagically the code in this repo goes like this...
+
+1. [elm:] Build a Production set to build at /static
+1. [srv:] Look for index.html at /static dir, copied contents in order to serve with python
