@@ -1,8 +1,8 @@
 
 # Cragapple
 
-## Intro
-There is no custom server side python in this application.  Cragapple is supposed to have at a least one link and a date.
+## Development Intro
+There is no custom server side python in this application.  Cragapple uses some python-shell scripts to set up before the production-level database is introduced (probably a django situation after prototyping stage)
 
 ### Goal
 [] We need a good database.  
