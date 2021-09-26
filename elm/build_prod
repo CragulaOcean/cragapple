@@ -1,2 +1,34 @@
 #!/bin/sh
 # A bash shell script
+
+
+# Build the infrastructure ( dependencies )
+
+rm -f dist/*
+if [ ! -d node_modules ]; then
+    yarn
+fi
+yarn build | exit 1
+
+# Hard copy over assets
+
+S=../srv/static
+
+mkdir $S 2>/dev/null
+
+rm -f $S/*
+
+cat > $S/!README <<-EOF
+!!
+!! Manually put here by /elm director, files "here" 
+!! are committed to git for a fast run on './build_prod'.
+!! This is populated running ./build_prod
+!!
+EOF
+
+cp dist/* $S
+
+
+
+chmod 444 $S/*
+
