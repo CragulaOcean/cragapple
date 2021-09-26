@@ -7,7 +7,7 @@ _an app for streamers to gantt-triage repeated new-audience questions that repea
 
 
 ## Development Intro
-There is no custom server side python in this application.  Cragapple uses some python-shell scripts to set up before the production-level database is introduced (probably a django situation after prototyping stage)
+There is no custom server side python in this application.  Cragapple uses [entrance](https://github.com/ensoft/entrance) before probably moving to a django situation after prototyping stage
 
 ### Goal
 - implement actual database as a learning exercise
