@@ -19,7 +19,6 @@ There is no custom server side python in this application.  Cragapple uses some 
 _steps to implement on your computer (mac) and coding environment_
 
 1. clone the repo
-2. see following...
 
 ```
 # enable executable permissions to run the file
