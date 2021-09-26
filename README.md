@@ -1,5 +1,10 @@
 
 # Cragapple
+_an app for streamers to gantt-triage repeated new-audience questions that repeat incessantly but can be batch-answered by human host or og_
+
+##
+
+
 
 ## Development Intro
 There is no custom server side python in this application.  Cragapple uses some python-shell scripts to set up before the production-level database is introduced (probably a django situation after prototyping stage)
