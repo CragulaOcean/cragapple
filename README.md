@@ -10,9 +10,9 @@ _an app for streamers to gantt-triage repeated new-audience questions that repea
 There is no custom server side python in this application.  Cragapple uses some python-shell scripts to set up before the production-level database is introduced (probably a django situation after prototyping stage)
 
 ### Goal
-- [] implement actual database
-- see kanban
-- 
+- implement actual database as a learning exercise
+- assess whether app aligns to having closed captioning on board
+
 While everything is here to present stuff correctly to the user -- it's barely passes as working
 
 
