@@ -1,0 +1,5 @@
+# instruct how to start the app
+start:
+  host: 0.0.0.0
+  port: 8000
+  static_dir: static

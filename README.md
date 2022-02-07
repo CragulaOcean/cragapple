@@ -1,8 +1,25 @@
 
 # Cragapple
-_an app for streamers to gantt-triage repeated new-audience questions that repeat incessantly but can be batch-answered by human host or og_
+_from streamers to brand-ambassadors,  repeat audience questions about what promo or referral codes support that creator might stay hidden and even feel a bit dry as they lack personalization at the start_
 
-##
+Cragapple Uses a space-inspired zoo NFT badge assignment scheme.
+
+
+## Prototyping Phase
+ You might see (compiled) snippets thrown about a la random. I need some of these parts to make it to IRL portfolio projects.  Some of the design might seem disjointed at first.  Expect to see design artifacts show up non-linearly with the offset that it binds the vibe in stages.
+ 
+    ^Expect to see wonky references to css and seemingly random research
+ 
+### Expect to see
+
+- wonky css
+- references to components with naming outside the theme of this project, until updated
+- seemingly random research
+
+### About git
+
+- ```git commit```:commits will either be joke-punchline pairs, or vague blanket descriptors.
+- ```git tag```: will contain references to the project direction with regard to UX or project direction
 
 
 
