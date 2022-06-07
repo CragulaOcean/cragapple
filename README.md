@@ -90,3 +90,5 @@ _...So I guess those are the underpinnings of a future LMS_
 
 ![setupDoneWithOptionSnipaste_2022-06-07_10-47-07](https://user-images.githubusercontent.com/87546382/172427390-20b659d0-d79c-4adb-aae3-c4a2eb331346.png)
 
+Guide Referenced:
+https://www.reddit.com/r/obs/comments/l6yt0c/best_obs_mic_settings_for_any_mic_obs_filters/?utm_source=share&utm_medium=web2x&context=3
