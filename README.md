@@ -61,3 +61,12 @@ Automagically the code in this repo goes like this...
 
 1. [elm:] Build a Production set to build at /static
 1. [srv:] Look for index.html at /static dir, copied contents in order to serve with python
+
+
+
+_...all that aside_
+
+
+Here's how to set up sounds in OBS
+
+![setup_1_noisegat_Snipaste_2022-06-07_09-50-25](https://user-images.githubusercontent.com/87546382/172426906-5a09902e-2716-49be-8a02-bb57ec33f7e9.png)
